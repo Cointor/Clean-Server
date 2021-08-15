@@ -17,4 +17,4 @@ Carga tu Token como "TOKEN"
 
 ### Paso 4
 
-
+Dirígete al [config.js](https://github.com/Cointor/Clean-Server/blob/main/config.js), Puedes editar el "**prefix**" y los "emojis"
